@@ -22,6 +22,9 @@ public class Estudiante {
         carrera = Ncarrera;
     }
 
+
+    //Metodo mostrarInformacion()
+
     public void mostrarInformacion(){
         System.out.println("Mostrar informacion Estudiante");
         System.out.println("Nombre: " + nombre);

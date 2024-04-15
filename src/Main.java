@@ -15,5 +15,14 @@ public class Main {
         estudiante1.cambiarCarrera("Ingenieria");
 
         estudiante1.mostrarInformacion();
+
+        //Ejercicio 3
+
+        Circulo c1 = new Circulo(2.0);
+
+        c1.calcularArea();
+        c1.calcularPerimetro();
+        c1.mostrarInformacion();
+
     }
 }
