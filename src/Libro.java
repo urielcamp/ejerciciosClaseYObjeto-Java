@@ -21,11 +21,12 @@ public class Libro {
     //Metodo mostrarInformacion()
     public void mostrarInformacion(){
 
-        System.out.println("Mostrar informacion");
+        System.out.println("Mostrar informacion Libro");
         System.out.println("Titulo: " + titulo);
         System.out.println("Autor: " + autor);
         System.out.println("Año de publicacion: " + anioDePublicacion);
         System.out.println("Numero de paginas: " + numeroDePaginas);
+        System.out.println("-----------------------------------------");
 
     }
 
